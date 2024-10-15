@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Kimhak:
-🔭 I’m a Backend Developer.<br>👯 I’m worki collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m a Backend Developer.<br>👯 I’m used to develop and maintance Core Banking System. <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Microservice and Spring WebFlux.<br>💬 Contact me: tthyu83@gmail.com<br>
 
 
 ## 🌐 Socials:
