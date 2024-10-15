@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Kimhak:
-🔭 I’m a Backend Developer.<br>👯 I’m used to develop and maintance Core Banking System. <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Microservice and Spring WebFlux.<br>💬 Contact me: tthyu83@gmail.com<br>
+🎓 I'm graduate in Computer Science at RUPP.<br>🏦 I’m a Backend Developer at Banking.<br>🏢 I’m used to develop and maintance Core Banking System. <br>🔰 I’m currently learning Microservice and Spring WebFlux.<br>💬 Contact me: tthyu83@gmail.com<br>
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Kimhak Seang&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kimhak Seang&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimhak Seang&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Kimhak Seang&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
