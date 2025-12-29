@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Kimhak:
-🎓 I'm graduated bachelor in Computer Science at RUPP.<br>🏦 I’m a Software Engineer at a Bank.<br>🏢 I’m used to develop and maintance Core Banking System. <br>🔰 I’m currently learning Microservice and Spring WebFlux.<br>💬 Contact me: tthyu83@gmail.com<br>
+🎓 I'm graduated bachelor in Computer Science at RUPP.<br>🏦 I’m a Senior Java Deveoper.<br>🏢 I’m used to develop and maintance Core Banking System. <br>🔰 I’m currently learning Microservice and Spring WebFlux.<br>💬 Contact me: tthyu83@gmail.com<br>
 
 
 ## 🌐 Socials:
